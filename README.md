@@ -3,4 +3,4 @@
 
 ### contact & more
 - email: topqr123q@gmail.com
-- [Blog] (https://velog.io/@topqr123q)
+- [Blog](https://velog.io/@topqr123q)

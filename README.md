@@ -6,3 +6,5 @@
 - [Blog 1](https://velog.io/@topqr123q)
 - [Blog 2](https://medium.com/@topqr123q)
 - [Linkedin](https://www.linkedin.com/in/sanghyeop-kim-70ab50229/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=topqr123q)](https://solved.ac/topqr123q/)
